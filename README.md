@@ -5,7 +5,7 @@ Straemlit Cloudにも公開しているので以下のリンクから飛べま�
 
 https://fashionitemclassfier-m8su4f5598a.streamlit.app/
 
-##使い方　
+## 使い方　
 
 左の欄から画像をアップロードすると衣類の種類を推定してくれます。　
 
