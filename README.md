@@ -1,0 +1,2 @@
+# fashion_item_classfier
+画像から衣類の種類を推定するアプリ
