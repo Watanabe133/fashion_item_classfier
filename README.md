@@ -1,4 +1,4 @@
-# fashion_item_classfier
+# Closest to the Clothing
 画像から衣類の種類を推定するアプリ
 
 Straemlit Cloudにも公開しているので以下のリンクから飛べます
